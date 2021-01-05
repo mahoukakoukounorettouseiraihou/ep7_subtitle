@@ -1,0 +1,1198 @@
+﻿1
+00:00:13,620 --> 00:00:15,290
+Major Sirius...
+
+2
+00:00:16,080 --> 00:00:17,490
+As of this moment,
+
+3
+00:00:17,490 --> 00:00:21,160
+I order you to temporarily suspend pursuit
+and elimination of the deserters,
+
+4
+00:00:21,160 --> 00:00:24,330
+and return to your original mission.
+
+5
+00:00:24,330 --> 00:00:32,450
+Make the securing of the spell that caused
+Scorched Halloween or its user your top priority.
+
+6
+00:00:32,450 --> 00:00:37,240
+If securing is impossible,
+you will need to eliminate the caster.
+
+7
+00:00:46,330 --> 00:00:48,040
+That's...
+
+8
+00:00:48,040 --> 00:00:49,580
+The Brionac.
+
+9
+00:00:49,580 --> 00:00:52,580
+Headquarters has given you
+permission to use it.
+
+10
+00:00:52,580 --> 00:00:55,790
+For now, assume
+that Tatsuya Shiba is your target.
+
+11
+00:00:55,790 --> 00:01:00,330
+Tomorrow night, you'll take the Stardust
+members and launch an attack on the target.
+
+12
+00:01:00,330 --> 00:01:05,700
+You are to equip the Brionac and
+intervene when you judge it necessary.
+
+13
+00:01:09,370 --> 00:01:10,990
+Yes, ma'am.
+
+14
+00:02:42,910 --> 00:02:45,580
+FEBRUARY 15, 2096
+
+15
+00:02:45,580 --> 00:02:48,240
+"ROBOT"
+
+16
+00:02:53,580 --> 00:02:55,740
+Oh, Shiba!
+
+17
+00:02:55,740 --> 00:02:59,700
+Is it true that Pixie
+has emitted magical energy?
+
+18
+00:02:59,700 --> 00:03:05,790
+Yes. We detected traces
+of high-density Psions from the P94's body.
+
+19
+00:03:05,790 --> 00:03:08,870
+They were emitted
+from inside the chest area.
+
+20
+00:03:10,240 --> 00:03:13,910
+Pixie's chest region is where its
+electronic brain and containment vessels
+
+21
+00:03:13,910 --> 00:03:15,450
+for fuel cells are, right?
+
+22
+00:03:15,450 --> 00:03:16,740
+Which one did it come from?
+
+23
+00:03:16,740 --> 00:03:19,410
+It was from close to the electronic brain.
+
+24
+00:03:19,410 --> 00:03:22,330
+Seriously, this is too much.
+
+25
+00:03:22,330 --> 00:03:25,660
+And we saw traces of Pushions, too.
+
+26
+00:03:29,120 --> 00:03:31,990
+Would you tell me what happened?
+
+27
+00:03:33,160 --> 00:03:37,240
+The incident started
+exactly at seven this morning.
+
+28
+00:03:40,450 --> 00:03:44,740
+As usual, after Pixie's
+self-diagnostic program ended,
+
+29
+00:03:44,740 --> 00:03:48,240
+it should've gone into suspend mode.
+
+30
+00:03:50,240 --> 00:03:52,540
+Access school student records.
+
+31
+00:03:53,950 --> 00:03:56,580
+But, this morning,
+Pixie's functions did not cease...
+
+32
+00:03:56,580 --> 00:03:59,200
+and it accessed First High Schools' server.
+
+33
+00:03:59,200 --> 00:04:02,490
+Wasn't the forced shutdown
+command transmitted?
+
+34
+00:04:02,490 --> 00:04:04,580
+It was, for sure.
+
+35
+00:04:04,580 --> 00:04:09,700
+The command was executed
+inside Pixie's electronic brain.
+
+36
+00:04:09,700 --> 00:04:10,700
+But...
+
+37
+00:04:10,700 --> 00:04:12,740
+Reboot.
+
+38
+00:04:12,740 --> 00:04:16,040
+Requesting access
+to school student records.
+
+39
+00:04:18,240 --> 00:04:20,870
+Request access again.
+
+40
+00:04:22,450 --> 00:04:26,830
+In the end, Pixie continued to access
+the school's student records...
+
+41
+00:04:26,830 --> 00:04:29,910
+until the server shut down the system.
+
+42
+00:04:35,370 --> 00:04:39,580
+It was smiling the whole time.
+
+43
+00:04:39,580 --> 00:04:43,910
+Its expression was kind of excited.
+
+44
+00:04:44,950 --> 00:04:47,540
+Like it was eager about something.
+
+45
+00:04:48,790 --> 00:04:51,290
+I understand.
+
+46
+00:04:51,290 --> 00:04:53,580
+I'll take a look.
+
+47
+00:04:53,580 --> 00:04:55,910
+Pixie, cancel suspend mode.
+
+48
+00:04:58,200 --> 00:05:00,200
+What do you require?
+
+49
+00:05:00,200 --> 00:05:04,700
+Lie down face-up on that stand
+and move into inspection mode.
+
+50
+00:05:09,540 --> 00:05:11,740
+I found you.
+
+51
+00:05:16,830 --> 00:05:20,160
+Shiba is even popular with robots.
+
+52
+00:05:20,160 --> 00:05:26,790
+I was not aware you had a hobby
+of playing with dolls, Brother.
+
+53
+00:05:26,790 --> 00:05:29,410
+I wasn't the one who hugged her here.
+
+54
+00:05:29,410 --> 00:05:30,990
+She hugged me.
+
+55
+00:05:30,990 --> 00:05:36,370
+With your physical skills, Brother,
+it should've been quite easy to dodge!
+
+56
+00:05:36,370 --> 00:05:40,410
+If I had dodged,
+it would've hit you, wouldn't it?
+
+57
+00:05:41,200 --> 00:05:45,790
+I-I'm terribly sorry for my rudeness.
+
+58
+00:05:45,790 --> 00:05:49,490
+M-More importantly,
+we need to do something about Pixie.
+
+59
+00:05:49,490 --> 00:05:52,080
+Pixie, move.
+
+60
+00:05:55,450 --> 00:05:57,870
+Sit on that table.
+
+61
+00:05:57,870 --> 00:05:59,290
+At once.
+
+62
+00:05:59,290 --> 00:06:00,700
+Mizuki...
+
+63
+00:06:00,700 --> 00:06:02,370
+Yes?
+
+64
+00:06:02,370 --> 00:06:05,040
+Take a look inside Pixie.
+
+65
+00:06:05,040 --> 00:06:09,950
+Mikihiko, I want you to be on guard
+so she doesn't suffer any major injury.
+
+66
+00:06:09,950 --> 00:06:13,160
+You think Pixie is possessed by something?
+
+67
+00:06:13,160 --> 00:06:14,450
+That's right.
+
+68
+00:06:29,490 --> 00:06:30,870
+It's there!
+
+69
+00:06:32,200 --> 00:06:34,080
+The parasite!
+
+70
+00:06:43,910 --> 00:06:47,160
+But this pattern is...
+
+71
+00:06:51,740 --> 00:06:53,330
+What?
+
+72
+00:06:57,870 --> 00:07:01,540
+This pattern...
+It's just like Honoka's.
+
+73
+00:07:04,200 --> 00:07:05,660
+What does that mean?
+
+74
+00:07:05,660 --> 00:07:10,200
+The parasite is under the influence
+of Honoka's thought waves.
+
+75
+00:07:10,200 --> 00:07:15,330
+Um, does that mean
+she's controlling it?
+
+76
+00:07:15,330 --> 00:07:19,660
+No, I don't believe
+it's that sort of connection.
+
+77
+00:07:19,660 --> 00:07:23,080
+It's more like, the parasite
+is copying Honoka's thoughts.
+
+78
+00:07:23,080 --> 00:07:28,330
+Or maybe I should say that Honoka's feelings
+have been burned into the parasite.
+
+79
+00:07:28,330 --> 00:07:31,200
+I didn't do anything like that!
+
+80
+00:07:31,200 --> 00:07:34,160
+She's not saying you did it on purpose.
+
+81
+00:07:34,160 --> 00:07:36,330
+Right, Mizuki?
+
+82
+00:07:36,330 --> 00:07:42,120
+Yes. It's not conscious.
+They're more like residual thoughts.
+
+83
+00:07:45,240 --> 00:07:46,990
+That is correct.
+
+84
+00:07:47,870 --> 00:07:55,200
+I awakened to especially
+strong feelings toward him.
+
+85
+00:07:55,200 --> 00:07:57,160
+Active telepathy?
+
+86
+00:07:57,160 --> 00:08:03,080
+The residual Psions must've actually
+been psychic power, not magic.
+
+87
+00:08:04,620 --> 00:08:07,620
+Can you communicate through speech?
+
+88
+00:08:07,620 --> 00:08:10,370
+I am able to understand speech.
+
+89
+00:08:10,370 --> 00:08:14,790
+However, it is difficult to control
+this body's vocal organs...
+
+90
+00:08:14,790 --> 00:08:18,200
+so please allow me to use telepathy
+in order to communicate my intent.
+
+91
+00:08:18,200 --> 00:08:23,660
+A robot is smiling.
+B-Because of Honoka? Psy-Psy-Psychic?
+
+92
+00:08:18,620 --> 00:08:21,700
+You seem to be communicating
+in our language quite well.
+
+93
+00:08:21,700 --> 00:08:23,660
+How did you learn it?
+
+94
+00:08:23,660 --> 00:08:27,160
+I have inherited
+the knowledge of my previous host.
+
+95
+00:08:27,160 --> 00:08:30,200
+Then, are you the parasite from before?
+
+96
+00:08:30,200 --> 00:08:34,950
+Parasite. An organism that feeds off
+another organism. Yes, we are similar to that.
+
+97
+00:08:34,950 --> 00:08:37,540
+How many people
+have you sacrificed thus far?
+
+98
+00:08:37,540 --> 00:08:41,450
+How many?
+I cannot answer that question.
+
+99
+00:08:41,450 --> 00:08:43,740
+I do not remember.
+
+100
+00:08:43,740 --> 00:08:46,240
+So many that you don't remember
+the exact number?
+
+101
+00:08:46,240 --> 00:08:47,830
+That is incorrect.
+
+102
+00:08:47,830 --> 00:08:52,160
+The only thing we can inherit
+when shifting host bodies
+
+103
+00:08:52,160 --> 00:08:56,410
+is the knowledge detached
+from the host's personality.
+
+104
+00:08:56,410 --> 00:09:01,200
+We lose all memories linked
+to their personality upon moving.
+
+105
+00:09:01,200 --> 00:09:06,870
+I see. That means you don't know
+what kind of person your previous host was.
+
+106
+00:09:06,870 --> 00:09:13,080
+And you don't remember whether
+there was one, two or more of them.
+
+107
+00:09:13,080 --> 00:09:15,120
+That is correct.
+
+108
+00:09:15,120 --> 00:09:17,660
+Your understanding is accurate.
+
+109
+00:09:17,660 --> 00:09:20,950
+So, you can offer your own impressions
+in addition to answering questions.
+
+110
+00:09:20,950 --> 00:09:23,490
+Do all of you have emotions, as well?
+
+111
+00:09:23,490 --> 00:09:27,040
+We, too, possess a desire
+for self-preservation.
+
+112
+00:09:27,040 --> 00:09:30,200
+You mean to say you possess likes and dislikes,
+
+113
+00:09:30,200 --> 00:09:32,160
+originating in deciding
+whether things are beneficial
+
+114
+00:09:32,160 --> 00:09:34,160
+or detrimental to self-preservation?
+
+115
+00:09:34,160 --> 00:09:36,080
+That is correct.
+
+116
+00:09:36,080 --> 00:09:39,160
+What should we call you?
+
+117
+00:09:39,160 --> 00:09:41,660
+We have no name,
+
+118
+00:09:41,660 --> 00:09:45,580
+so please call this individual
+by its nickname, "Pixie."
+
+119
+00:09:45,580 --> 00:09:47,410
+Then, Pixie...
+
+120
+00:09:47,410 --> 00:09:50,620
+Are you our enemy?
+
+121
+00:09:50,620 --> 00:09:53,370
+I am subordinate to you.
+
+122
+00:09:53,370 --> 00:09:55,490
+To me? Why?
+
+123
+00:09:55,490 --> 00:09:57,540
+I want to be yours.
+
+124
+00:09:57,540 --> 00:10:03,290
+I awoke from my resting state because of
+the individual named Honoka Mitsui's thoughts.
+
+125
+00:10:03,290 --> 00:10:07,290
+We are drawn to strong
+and highly pure thoughts,
+
+126
+00:10:07,290 --> 00:10:11,490
+and we form our ego
+using those thoughts as a core.
+
+127
+00:10:11,490 --> 00:10:13,160
+Highly pure...
+
+128
+00:10:13,160 --> 00:10:15,950
+Do you mean thoughts rooted in single desires?
+
+129
+00:10:15,950 --> 00:10:17,490
+That is correct.
+
+130
+00:10:17,490 --> 00:10:19,740
+I believe that, in your language,
+
+131
+00:10:19,740 --> 00:10:23,910
+the concept of prayer would be closest.
+
+132
+00:10:23,910 --> 00:10:26,040
+I want to do everything for you.
+
+133
+00:10:28,540 --> 00:10:31,740
+I want to be useful to you.
+
+134
+00:10:31,740 --> 00:10:33,950
+I want to serve you.
+
+135
+00:10:33,950 --> 00:10:36,200
+I want to be yours.
+
+136
+00:10:36,200 --> 00:10:39,410
+I want to offer everything to you.
+
+137
+00:10:39,410 --> 00:10:43,700
+That is the prayer that awoke me.
+
+138
+00:10:43,700 --> 00:10:50,790
+And right now, the desire
+to become yours makes up my core.
+
+139
+00:10:50,790 --> 00:10:54,540
+Therefore, I am subordinate to you.
+
+140
+00:10:57,200 --> 00:10:59,990
+I'm surprised you all have an ego,
+
+141
+00:10:59,990 --> 00:11:03,200
+and even more so that you're
+all entirely passive beings.
+
+142
+00:11:03,200 --> 00:11:08,700
+In other words, you didn't come to
+this world because you wished to. Correct?
+
+143
+00:11:08,700 --> 00:11:12,330
+We originally are simple beings that exist.
+
+144
+00:11:12,330 --> 00:11:15,160
+We are given wishes by our host.
+
+145
+00:11:15,160 --> 00:11:17,240
+That hits close to home.
+
+146
+00:11:17,240 --> 00:11:21,620
+Anyway, am I correct in saying
+you will follow my instructions?
+
+147
+00:11:21,620 --> 00:11:24,580
+That is my wish.
+
+148
+00:11:25,240 --> 00:11:28,290
+Then, you will obey my orders.
+
+149
+00:11:28,290 --> 00:11:32,580
+I hereby forbid you to use psychic powers
+without my permission.
+
+150
+00:11:32,580 --> 00:11:35,160
+You're using a sort of telekinesis
+to change your expression, too, right?
+
+151
+00:11:35,160 --> 00:11:37,240
+None of that, either.
+
+152
+00:11:38,120 --> 00:11:40,950
+As you command.
+
+153
+00:11:47,700 --> 00:11:52,040
+I'd never even suspected
+the monster could possess a robot.
+
+154
+00:11:52,040 --> 00:11:55,200
+It's probably because
+it was a humanoid type.
+
+155
+00:11:55,200 --> 00:11:57,200
+What an unlikely tsukumogami .
+
+156
+00:12:02,200 --> 00:12:05,990
+You have piano and etiquette
+lessons today, don't you?
+
+157
+00:12:05,990 --> 00:12:06,830
+Yes.
+
+158
+00:12:06,830 --> 00:12:10,580
+Then, I'll come pick you up
+when it's over like usual.
+
+159
+00:12:10,580 --> 00:12:14,040
+Yes. I will be waiting for you.
+
+160
+00:12:46,660 --> 00:12:48,830
+Five of them...
+
+161
+00:12:48,830 --> 00:12:51,120
+And they're...
+
+162
+00:12:51,120 --> 00:12:53,540
+surveillance from another faction?
+
+163
+00:12:57,290 --> 00:12:59,330
+Everyone is in position.
+
+164
+00:13:00,120 --> 00:13:01,870
+Major Sirius...
+
+165
+00:13:01,870 --> 00:13:06,370
+The Stardust unit is in place.
+What is your situation?
+
+166
+00:13:06,370 --> 00:13:08,490
+Ready to deploy.
+
+167
+00:13:08,490 --> 00:13:13,450
+Good. First, the Stardust unit
+will attempt to capture the target.
+
+168
+00:13:13,450 --> 00:13:17,080
+If that proves impossible, they will lure him
+to the park where you're waiting.
+
+169
+00:13:17,080 --> 00:13:19,450
+After that, I will leave it
+to your judgment.
+
+170
+00:13:19,450 --> 00:13:20,990
+Roger that.
+
+171
+00:13:20,990 --> 00:13:22,790
+Then, begin the operation!
+
+172
+00:13:59,370 --> 00:14:01,450
+What? The spell bounced back!
+
+173
+00:14:11,540 --> 00:14:15,200
+An engineered magician...
+No, an enhanced human?
+
+174
+00:14:21,040 --> 00:14:23,950
+Enhanced beyond their physical capacity.
+
+175
+00:14:23,950 --> 00:14:27,240
+At this rate, I bet they've got
+only a handful of years to live.
+
+176
+00:14:27,240 --> 00:14:29,870
+A true suicide squad.
+
+177
+00:15:00,490 --> 00:15:02,080
+VISITOR ARC VII
+
+178
+00:15:06,040 --> 00:15:07,870
+That spell...
+
+179
+00:15:07,870 --> 00:15:09,200
+No doubt about it.
+
+180
+00:15:09,200 --> 00:15:13,040
+That was Strategic-Class magic,
+Heavy Metal Burst.
+
+181
+00:15:23,830 --> 00:15:26,830
+The target has begun
+following Major Sirius.
+
+182
+00:15:26,830 --> 00:15:31,700
+Why did Major Sirius decide
+to leave her position?
+
+183
+00:15:31,700 --> 00:15:35,370
+And to fire the Brionac
+in the middle of traffic...
+
+184
+00:15:35,370 --> 00:15:36,870
+Summon the relay vehicle!
+
+185
+00:15:36,870 --> 00:15:38,120
+Yes, ma'am!
+
+186
+00:15:45,330 --> 00:15:48,490
+She canceled her camouflage.
+
+187
+00:15:48,490 --> 00:15:52,410
+To focus her mind on this attack spell?
+
+188
+00:15:52,410 --> 00:15:53,740
+Tatsuya...
+
+189
+00:15:53,740 --> 00:15:55,870
+You'd better surrender.
+
+190
+00:15:55,870 --> 00:15:59,870
+I don't know how you disable magic,
+
+191
+00:15:59,870 --> 00:16:03,450
+but you won't be able
+to mess with the Brionac!
+
+192
+00:16:06,120 --> 00:16:07,700
+I see.
+
+193
+00:16:14,290 --> 00:16:15,790
+No time!
+
+194
+00:16:32,490 --> 00:16:34,290
+The Brionac...
+
+195
+00:16:34,290 --> 00:16:37,240
+That which pierces. The Brionac.
+
+196
+00:16:37,240 --> 00:16:41,540
+One of the weapons
+the Celtic god of light Lugh possessed.
+
+197
+00:16:41,540 --> 00:16:44,160
+Does that naming mean...
+
+198
+00:16:44,160 --> 00:16:46,660
+you've reproduced the mythical weapon?
+
+199
+00:16:47,740 --> 00:16:49,080
+Tatsuya!
+
+200
+00:16:50,370 --> 00:16:52,040
+I'll say it again.
+
+201
+00:16:52,040 --> 00:16:53,370
+Surrender!
+
+202
+00:16:53,370 --> 00:16:55,950
+You can't use your martial arts
+with only one arm!
+
+203
+00:16:55,950 --> 00:16:58,910
+You have no chance of defeating me now!
+
+204
+00:16:58,910 --> 00:17:01,620
+What would you do with me
+as your prisoner?
+
+205
+00:17:01,620 --> 00:17:03,370
+Human experimentation?
+
+206
+00:17:03,370 --> 00:17:06,410
+Like you did with them?
+
+207
+00:17:06,410 --> 00:17:10,410
+It doesn't really need to be said,
+but I refuse to be your guinea pig.
+
+208
+00:17:10,410 --> 00:17:11,740
+Then...
+
+209
+00:17:11,740 --> 00:17:14,450
+I'll incapacitate you
+and drag you away with me!
+
+210
+00:17:19,450 --> 00:17:21,330
+Your arm...
+
+211
+00:17:21,330 --> 00:17:22,950
+How?
+
+212
+00:17:49,450 --> 00:17:50,790
+Lina...
+
+213
+00:17:50,790 --> 00:17:53,910
+You'd be better off
+quitting the army as soon as you can.
+
+214
+00:17:55,870 --> 00:17:58,410
+For a soldier, you're too naïve.
+
+215
+00:17:58,410 --> 00:18:01,950
+Or rather, you're too soft.
+
+216
+00:18:01,950 --> 00:18:04,490
+Sirius, commander of the Stars...
+
+217
+00:18:04,490 --> 00:18:06,990
+I really don't think you're fit for this job.
+
+218
+00:18:09,290 --> 00:18:11,370
+Oh, hello, Mr. Tatsuya.
+
+219
+00:18:11,370 --> 00:18:12,950
+What's the matter?
+
+220
+00:18:12,950 --> 00:18:16,330
+I'm sorry for calling so late, Mr. Hayama.
+
+221
+00:18:16,330 --> 00:18:21,200
+Actually, I just came under attack
+by a small USNA military force.
+
+222
+00:18:21,200 --> 00:18:22,160
+Oh...
+
+223
+00:18:22,160 --> 00:18:24,240
+After fighting off their first wave,
+
+224
+00:18:24,240 --> 00:18:28,990
+I engaged in combat with the Stars commander,
+Angie Sirius, and defeated her, too.
+
+225
+00:18:28,990 --> 00:18:32,040
+Then, I took down the backup team,
+
+226
+00:18:32,040 --> 00:18:36,950
+backed up the data they'd recorded,
+and then erased everything they'd left.
+
+227
+00:18:47,120 --> 00:18:50,410
+Next, I repaired Sirius's wounds...
+
+228
+00:18:50,410 --> 00:18:53,740
+and erased all signs that we'd fought.
+
+229
+00:18:54,990 --> 00:18:57,290
+While making contact with the first wave,
+
+230
+00:18:57,290 --> 00:19:01,450
+I noticed other observers,
+not with the USNA army.
+
+231
+00:19:01,450 --> 00:19:05,540
+They must have been Section Three.
+
+232
+00:19:05,540 --> 00:19:07,160
+Section Three...
+
+233
+00:19:07,160 --> 00:19:09,700
+Then, that unit was under
+the Saegusa Family's yoke.
+
+234
+00:19:09,700 --> 00:19:15,660
+Yes. Mr. Koichi, the current leader of
+the Saegusa Family, seems to be interested.
+
+235
+00:19:15,660 --> 00:19:20,240
+I expect he is investigating the parasites...
+or more likely, is trying to capture one.
+
+236
+00:19:20,240 --> 00:19:22,040
+What a pain.
+
+237
+00:19:22,040 --> 00:19:24,830
+We will do something about
+the USNA military for the time being.
+
+238
+00:19:24,830 --> 00:19:29,120
+Please send the backed up data here.
+
+239
+00:19:29,120 --> 00:19:32,120
+Without an excuse to make
+Section Three take action,
+
+240
+00:19:32,120 --> 00:19:35,950
+Mr. Koichi should back out
+for the time being, as well.
+
+241
+00:19:35,950 --> 00:19:37,580
+Thank you.
+
+242
+00:19:43,080 --> 00:19:44,910
+Is something wrong?
+
+243
+00:19:46,290 --> 00:19:47,540
+No.
+
+244
+00:19:47,540 --> 00:19:49,080
+Nothing.
+
+245
+00:19:53,910 --> 00:19:54,990
+Brother...
+
+246
+00:19:54,990 --> 00:19:56,620
+You aren't hurt, are you?
+
+247
+00:19:56,620 --> 00:19:59,080
+Miyuki, calm down a little.
+
+248
+00:19:59,080 --> 00:20:02,830
+I shall not calm down! This blood...
+
+249
+00:20:02,830 --> 00:20:08,910
+You fought with Lina, didn't you?
+And it wasn't one-on-one, either, was it?
+
+250
+00:20:08,910 --> 00:20:11,120
+Please just stay calm.
+
+251
+00:20:11,120 --> 00:20:17,830
+You know that nobody can leave injuries
+on me if I don't let them, right?
+
+252
+00:20:18,740 --> 00:20:22,200
+I'm terribly sorry, Brother.
+
+253
+00:20:22,200 --> 00:20:25,080
+That was shameful of me.
+
+254
+00:20:25,080 --> 00:20:29,330
+Not at all. I'm sorry for worrying you.
+
+255
+00:20:29,330 --> 00:20:34,620
+No, that's not... It's natural for
+a sister to worry about her brother!
+
+256
+00:20:34,620 --> 00:20:40,160
+I'm aware that no matter how many times
+Lina challenges you, she can't defeat you.
+
+257
+00:20:40,160 --> 00:20:45,660
+Nobody can defeat you,
+though you may search the entire world.
+
+258
+00:20:48,370 --> 00:20:51,120
+I wouldn't lose to anyone.
+
+259
+00:20:51,120 --> 00:20:54,490
+Not with you waiting for me.
+
+260
+00:21:12,240 --> 00:21:13,910
+Where am I?
+
+261
+00:21:20,290 --> 00:21:22,580
+Nobody's here?
+
+262
+00:21:31,490 --> 00:21:33,580
+Why?
+
+263
+00:21:37,120 --> 00:21:39,080
+No injuries...
+
+264
+00:21:39,490 --> 00:21:42,120
+No pain?
+
+265
+00:21:42,120 --> 00:21:44,790
+What's going on?
+
+266
+00:21:44,790 --> 00:21:45,990
+No.
+
+267
+00:21:45,990 --> 00:21:47,580
+Exotype magic...
+
+268
+00:21:47,580 --> 00:21:49,990
+A mental attack?
+
+269
+00:21:49,990 --> 00:21:55,120
+Have we been misunderstanding
+something really important?
+
+270
+00:21:55,120 --> 00:21:59,660
+What if Tatsuya isn't a Mass-energy
+Conversion Magic spell caster...
+
+271
+00:21:59,660 --> 00:22:04,040
+but a magician with a high aptitude
+for Sensory Interference Magic?
+
+272
+00:22:04,040 --> 00:22:06,620
+An illusion master?
+
+273
+00:22:06,620 --> 00:22:08,290
+Oh, right!
+
+274
+00:22:08,290 --> 00:22:10,790
+I have to report to the control room!
+
+275
+00:23:48,490 --> 00:23:52,080
+VISITOR ARC VIII

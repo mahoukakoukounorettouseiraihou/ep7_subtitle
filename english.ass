@@ -1,0 +1,288 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.62,0:00:15.29,Default,,0,0,0,,Major Sirius...
+Dialogue: 0,0:00:16.08,0:00:17.49,Default,,0,0,0,,As of this moment,
+Dialogue: 0,0:00:17.49,0:00:21.16,Default,,0,0,0,,I order you to temporarily suspend pursuit\Nand elimination of the deserters,
+Dialogue: 0,0:00:21.16,0:00:24.33,Default,,0,0,0,,and return to your original mission.
+Dialogue: 0,0:00:24.33,0:00:32.45,Default,,0,0,0,,Make the securing of the spell that caused\NScorched Halloween or its user your top priority.
+Dialogue: 0,0:00:32.45,0:00:37.24,Default,,0,0,0,,If securing is impossible,\Nyou will need to eliminate the caster.
+Dialogue: 0,0:00:46.33,0:00:48.04,Default,,0,0,0,,That's...
+Dialogue: 0,0:00:48.04,0:00:49.58,Default,,0,0,0,,The Brionac.
+Dialogue: 0,0:00:49.58,0:00:52.58,Default,,0,0,0,,Headquarters has given you\Npermission to use it.
+Dialogue: 0,0:00:52.58,0:00:55.79,Default,,0,0,0,,For now, assume\Nthat Tatsuya Shiba is your target.
+Dialogue: 0,0:00:55.79,0:01:00.33,Default,,0,0,0,,Tomorrow night, you'll take the Stardust\Nmembers and launch an attack on the target.
+Dialogue: 0,0:01:00.33,0:01:05.70,Default,,0,0,0,,You are to equip the Brionac and\Nintervene when you judge it necessary.
+Dialogue: 0,0:01:09.37,0:01:10.99,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:02:42.91,0:02:45.58,Default,,0,0,0,,{\blur1\shad6\fs39\bord0\fnOpen Sans Light\b0\3c&H000000&\u1\pos(280,90)\c&HFFFFFF&\4c&H000000&\clip(128,46,328,126)\t(0,20,\clip(128,46,440,130))}FEBRUARY 15, 2096
+Dialogue: 0,0:02:45.58,0:02:48.24,Default,,0,0,0,,{\an8}"ROBOT"
+Dialogue: 0,0:02:53.58,0:02:55.74,Default,,0,0,0,,Oh, Shiba!
+Dialogue: 0,0:02:55.74,0:02:59.70,Default,,0,0,0,,Is it true that Pixie\Nhas emitted magical energy?
+Dialogue: 0,0:02:59.70,0:03:05.79,Default,,0,0,0,,Yes. We detected traces\Nof high-density Psions from the P94's body.
+Dialogue: 0,0:03:05.79,0:03:08.87,Default,,0,0,0,,They were emitted\Nfrom inside the chest area.
+Dialogue: 0,0:03:10.24,0:03:13.91,Default,,0,0,0,,Pixie's chest region is where its\Nelectronic brain and containment vessels
+Dialogue: 0,0:03:13.91,0:03:15.45,Default,,0,0,0,,for fuel cells are, right?
+Dialogue: 0,0:03:15.45,0:03:16.74,Default,,0,0,0,,Which one did it come from?
+Dialogue: 0,0:03:16.74,0:03:19.41,Default,,0,0,0,,It was from close to the electronic brain.
+Dialogue: 0,0:03:19.41,0:03:22.33,Default,,0,0,0,,Seriously, this is too much.
+Dialogue: 0,0:03:22.33,0:03:25.66,Default,,0,0,0,,And we saw traces of Pushions, too.
+Dialogue: 0,0:03:29.12,0:03:31.99,Default,,0,0,0,,Would you tell me what happened?
+Dialogue: 0,0:03:33.16,0:03:37.24,Default,,0,0,0,,The incident started\Nexactly at seven this morning.
+Dialogue: 0,0:03:40.45,0:03:44.74,Default,,0,0,0,,As usual, after Pixie's\Nself-diagnostic program ended,
+Dialogue: 0,0:03:44.74,0:03:48.24,Default,,0,0,0,,it should've gone into suspend mode.
+Dialogue: 0,0:03:50.24,0:03:52.54,Default,,0,0,0,,Access school student records.
+Dialogue: 0,0:03:53.95,0:03:56.58,Default,,0,0,0,,But, this morning,\NPixie's functions did not cease...
+Dialogue: 0,0:03:56.58,0:03:59.20,Default,,0,0,0,,and it accessed First High Schools' server.
+Dialogue: 0,0:03:59.20,0:04:02.49,Default,,0,0,0,,Wasn't the forced shutdown\Ncommand transmitted?
+Dialogue: 0,0:04:02.49,0:04:04.58,Default,,0,0,0,,It was, for sure.
+Dialogue: 0,0:04:04.58,0:04:09.70,Default,,0,0,0,,The command was executed\Ninside Pixie's electronic brain.
+Dialogue: 0,0:04:09.70,0:04:10.70,Default,,0,0,0,,But...
+Dialogue: 0,0:04:10.70,0:04:12.74,Default,,0,0,0,,Reboot.
+Dialogue: 0,0:04:12.74,0:04:16.04,Default,,0,0,0,,Requesting access\Nto school student records.
+Dialogue: 0,0:04:18.24,0:04:20.87,Default,,0,0,0,,Request access again.
+Dialogue: 0,0:04:22.45,0:04:26.83,Default,,0,0,0,,In the end, Pixie continued to access\Nthe school's student records...
+Dialogue: 0,0:04:26.83,0:04:29.91,Default,,0,0,0,,until the server shut down the system.
+Dialogue: 0,0:04:35.37,0:04:39.58,Default,,0,0,0,,It was smiling the whole time.
+Dialogue: 0,0:04:39.58,0:04:43.91,Default,,0,0,0,,Its expression was kind of excited.
+Dialogue: 0,0:04:44.95,0:04:47.54,Default,,0,0,0,,Like it was eager about something.
+Dialogue: 0,0:04:48.79,0:04:51.29,Default,,0,0,0,,I understand.
+Dialogue: 0,0:04:51.29,0:04:53.58,Default,,0,0,0,,I'll take a look.
+Dialogue: 0,0:04:53.58,0:04:55.91,Default,,0,0,0,,Pixie, cancel suspend mode.
+Dialogue: 0,0:04:58.20,0:05:00.20,Default,,0,0,0,,What do you require?
+Dialogue: 0,0:05:00.20,0:05:04.70,Default,,0,0,0,,Lie down face-up on that stand\Nand move into inspection mode.
+Dialogue: 0,0:05:09.54,0:05:11.74,Default,,0,0,0,,I found you.
+Dialogue: 0,0:05:16.83,0:05:20.16,Default,,0,0,0,,Shiba is even popular with robots.
+Dialogue: 0,0:05:20.16,0:05:26.79,Default,,0,0,0,,I was not aware you had a hobby\Nof playing with dolls, Brother.
+Dialogue: 0,0:05:26.79,0:05:29.41,Default,,0,0,0,,I wasn't the one who hugged her here.
+Dialogue: 0,0:05:29.41,0:05:30.99,Default,,0,0,0,,She hugged me.
+Dialogue: 0,0:05:30.99,0:05:36.37,Default,,0,0,0,,With your physical skills, Brother,\Nit should've been quite easy to dodge!
+Dialogue: 0,0:05:36.37,0:05:40.41,Default,,0,0,0,,If I had dodged,\Nit would've hit you, wouldn't it?
+Dialogue: 0,0:05:41.20,0:05:45.79,Default,,0,0,0,,I-I'm terribly sorry for my rudeness.
+Dialogue: 0,0:05:45.79,0:05:49.49,Default,,0,0,0,,M-More importantly,\Nwe need to do something about Pixie.
+Dialogue: 0,0:05:49.49,0:05:52.08,Default,,0,0,0,,Pixie, move.
+Dialogue: 0,0:05:55.45,0:05:57.87,Default,,0,0,0,,Sit on that table.
+Dialogue: 0,0:05:57.87,0:05:59.29,Default,,0,0,0,,At once.
+Dialogue: 0,0:05:59.29,0:06:00.70,Default,,0,0,0,,Mizuki...
+Dialogue: 0,0:06:00.70,0:06:02.37,Default,,0,0,0,,Yes?
+Dialogue: 0,0:06:02.37,0:06:05.04,Default,,0,0,0,,Take a look inside Pixie.
+Dialogue: 0,0:06:05.04,0:06:09.95,Default,,0,0,0,,Mikihiko, I want you to be on guard\Nso she doesn't suffer any major injury.
+Dialogue: 0,0:06:09.95,0:06:13.16,Default,,0,0,0,,You think Pixie is possessed by something?
+Dialogue: 0,0:06:13.16,0:06:14.45,Default,,0,0,0,,That's right.
+Dialogue: 0,0:06:29.49,0:06:30.87,Default,,0,0,0,,It's there!
+Dialogue: 0,0:06:32.20,0:06:34.08,Default,,0,0,0,,The parasite!
+Dialogue: 0,0:06:43.91,0:06:47.16,Default,,0,0,0,,But this pattern is...
+Dialogue: 0,0:06:51.74,0:06:53.33,Default,,0,0,0,,What?
+Dialogue: 0,0:06:57.87,0:07:01.54,Default,,0,0,0,,This pattern...\NIt's just like Honoka's.
+Dialogue: 0,0:07:04.20,0:07:05.66,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:07:05.66,0:07:10.20,Default,,0,0,0,,The parasite is under the influence\Nof Honoka's thought waves.
+Dialogue: 0,0:07:10.20,0:07:15.33,Default,,0,0,0,,Um, does that mean\Nshe's controlling it?
+Dialogue: 0,0:07:15.33,0:07:19.66,Default,,0,0,0,,No, I don't believe\Nit's that sort of connection.
+Dialogue: 0,0:07:19.66,0:07:23.08,Default,,0,0,0,,It's more like, the parasite\Nis copying Honoka's thoughts.
+Dialogue: 0,0:07:23.08,0:07:28.33,Default,,0,0,0,,Or maybe I should say that Honoka's feelings\Nhave been burned into the parasite.
+Dialogue: 0,0:07:28.33,0:07:31.20,Default,,0,0,0,,I didn't do anything like that!
+Dialogue: 0,0:07:31.20,0:07:34.16,Default,,0,0,0,,She's not saying you did it on purpose.
+Dialogue: 0,0:07:34.16,0:07:36.33,Default,,0,0,0,,Right, Mizuki?
+Dialogue: 0,0:07:36.33,0:07:42.12,Default,,0,0,0,,Yes. It's not conscious.\NThey're more like residual thoughts.
+Dialogue: 0,0:07:45.24,0:07:46.99,Default,,0,0,0,,That is correct.
+Dialogue: 0,0:07:47.87,0:07:55.20,Default,,0,0,0,,I awakened to especially\Nstrong feelings toward him.
+Dialogue: 0,0:07:55.20,0:07:57.16,Default,,0,0,0,,Active telepathy?
+Dialogue: 0,0:07:57.16,0:08:03.08,Default,,0,0,0,,The residual Psions must've actually\Nbeen psychic power, not magic.
+Dialogue: 0,0:08:04.62,0:08:07.62,Default,,0,0,0,,Can you communicate through speech?
+Dialogue: 0,0:08:07.62,0:08:10.37,Default,,0,0,0,,I am able to understand speech.
+Dialogue: 0,0:08:10.37,0:08:14.79,Default,,0,0,0,,However, it is difficult to control\Nthis body's vocal organs...
+Dialogue: 0,0:08:14.79,0:08:18.20,Default,,0,0,0,,so please allow me to use telepathy\Nin order to communicate my intent.
+Dialogue: 0,0:08:18.20,0:08:23.66,Default,,0,0,0,,{\an8}A robot is smiling.\NB-Because of Honoka? Psy-Psy-Psychic?
+Dialogue: 0,0:08:18.62,0:08:21.70,Default,,0,0,0,,You seem to be communicating\Nin our language quite well.
+Dialogue: 0,0:08:21.70,0:08:23.66,Default,,0,0,0,,How did you learn it?
+Dialogue: 0,0:08:23.66,0:08:27.16,Default,,0,0,0,,I have inherited\Nthe knowledge of my previous host.
+Dialogue: 0,0:08:27.16,0:08:30.20,Default,,0,0,0,,Then, are you the parasite from before?
+Dialogue: 0,0:08:30.20,0:08:34.95,Default,,0,0,0,,Parasite. An organism that feeds off\Nanother organism. Yes, we are similar to that.
+Dialogue: 0,0:08:34.95,0:08:37.54,Default,,0,0,0,,How many people\Nhave you sacrificed thus far?
+Dialogue: 0,0:08:37.54,0:08:41.45,Default,,0,0,0,,How many?\NI cannot answer that question.
+Dialogue: 0,0:08:41.45,0:08:43.74,Default,,0,0,0,,I do not remember.
+Dialogue: 0,0:08:43.74,0:08:46.24,Default,,0,0,0,,So many that you don't remember\Nthe exact number?
+Dialogue: 0,0:08:46.24,0:08:47.83,Default,,0,0,0,,That is incorrect.
+Dialogue: 0,0:08:47.83,0:08:52.16,Default,,0,0,0,,The only thing we can inherit\Nwhen shifting host bodies
+Dialogue: 0,0:08:52.16,0:08:56.41,Default,,0,0,0,,is the knowledge detached\Nfrom the host's personality.
+Dialogue: 0,0:08:56.41,0:09:01.20,Default,,0,0,0,,We lose all memories linked\Nto their personality upon moving.
+Dialogue: 0,0:09:01.20,0:09:06.87,Default,,0,0,0,,I see. That means you don't know\Nwhat kind of person your previous host was.
+Dialogue: 0,0:09:06.87,0:09:13.08,Default,,0,0,0,,And you don't remember whether\Nthere was one, two or more of them.
+Dialogue: 0,0:09:13.08,0:09:15.12,Default,,0,0,0,,That is correct.
+Dialogue: 0,0:09:15.12,0:09:17.66,Default,,0,0,0,,Your understanding is accurate.
+Dialogue: 0,0:09:17.66,0:09:20.95,Default,,0,0,0,,So, you can offer your own impressions\Nin addition to answering questions.
+Dialogue: 0,0:09:20.95,0:09:23.49,Default,,0,0,0,,Do all of you have emotions, as well?
+Dialogue: 0,0:09:23.49,0:09:27.04,Default,,0,0,0,,We, too, possess a desire\Nfor self-preservation.
+Dialogue: 0,0:09:27.04,0:09:30.20,Default,,0,0,0,,You mean to say you possess likes and dislikes,
+Dialogue: 0,0:09:30.20,0:09:32.16,Default,,0,0,0,,originating in deciding\Nwhether things are beneficial
+Dialogue: 0,0:09:32.16,0:09:34.16,Default,,0,0,0,,or detrimental to self-preservation?
+Dialogue: 0,0:09:34.16,0:09:36.08,Default,,0,0,0,,That is correct.
+Dialogue: 0,0:09:36.08,0:09:39.16,Default,,0,0,0,,What should we call you?
+Dialogue: 0,0:09:39.16,0:09:41.66,Default,,0,0,0,,We have no name,
+Dialogue: 0,0:09:41.66,0:09:45.58,Default,,0,0,0,,so please call this individual\Nby its nickname, "Pixie."
+Dialogue: 0,0:09:45.58,0:09:47.41,Default,,0,0,0,,Then, Pixie...
+Dialogue: 0,0:09:47.41,0:09:50.62,Default,,0,0,0,,Are you our enemy?
+Dialogue: 0,0:09:50.62,0:09:53.37,Default,,0,0,0,,I am subordinate to you.
+Dialogue: 0,0:09:53.37,0:09:55.49,Default,,0,0,0,,To me? Why?
+Dialogue: 0,0:09:55.49,0:09:57.54,Default,,0,0,0,,I want to be yours.
+Dialogue: 0,0:09:57.54,0:10:03.29,Default,,0,0,0,,I awoke from my resting state because of\Nthe individual named Honoka Mitsui's thoughts.
+Dialogue: 0,0:10:03.29,0:10:07.29,Default,,0,0,0,,We are drawn to strong\Nand highly pure thoughts,
+Dialogue: 0,0:10:07.29,0:10:11.49,Default,,0,0,0,,and we form our ego\Nusing those thoughts as a core.
+Dialogue: 0,0:10:11.49,0:10:13.16,Default,,0,0,0,,Highly pure...
+Dialogue: 0,0:10:13.16,0:10:15.95,Default,,0,0,0,,Do you mean thoughts rooted in single desires?
+Dialogue: 0,0:10:15.95,0:10:17.49,Default,,0,0,0,,That is correct.
+Dialogue: 0,0:10:17.49,0:10:19.74,Default,,0,0,0,,I believe that, in your language,
+Dialogue: 0,0:10:19.74,0:10:23.91,Default,,0,0,0,,the concept of prayer would be closest.
+Dialogue: 0,0:10:23.91,0:10:26.04,Default,,0,0,0,,I want to do everything for you.
+Dialogue: 0,0:10:28.54,0:10:31.74,Default,,0,0,0,,I want to be useful to you.
+Dialogue: 0,0:10:31.74,0:10:33.95,Default,,0,0,0,,I want to serve you.
+Dialogue: 0,0:10:33.95,0:10:36.20,Default,,0,0,0,,I want to be yours.
+Dialogue: 0,0:10:36.20,0:10:39.41,Default,,0,0,0,,I want to offer everything to you.
+Dialogue: 0,0:10:39.41,0:10:43.70,Default,,0,0,0,,That is the prayer that awoke me.
+Dialogue: 0,0:10:43.70,0:10:50.79,Default,,0,0,0,,And right now, the desire\Nto become yours makes up my core.
+Dialogue: 0,0:10:50.79,0:10:54.54,Default,,0,0,0,,Therefore, I am subordinate to you.
+Dialogue: 0,0:10:57.20,0:10:59.99,Default,,0,0,0,,I'm surprised you all have an ego,
+Dialogue: 0,0:10:59.99,0:11:03.20,Default,,0,0,0,,and even more so that you're\Nall entirely passive beings.
+Dialogue: 0,0:11:03.20,0:11:08.70,Default,,0,0,0,,In other words, you didn't come to\Nthis world because you wished to. Correct?
+Dialogue: 0,0:11:08.70,0:11:12.33,Default,,0,0,0,,We originally are simple beings that exist.
+Dialogue: 0,0:11:12.33,0:11:15.16,Default,,0,0,0,,We are given wishes by our host.
+Dialogue: 0,0:11:15.16,0:11:17.24,Default,,0,0,0,,That hits close to home.
+Dialogue: 0,0:11:17.24,0:11:21.62,Default,,0,0,0,,Anyway, am I correct in saying\Nyou will follow my instructions?
+Dialogue: 0,0:11:21.62,0:11:24.58,Default,,0,0,0,,That is my wish.
+Dialogue: 0,0:11:25.24,0:11:28.29,Default,,0,0,0,,Then, you will obey my orders.
+Dialogue: 0,0:11:28.29,0:11:32.58,Default,,0,0,0,,I hereby forbid you to use psychic powers\Nwithout my permission.
+Dialogue: 0,0:11:32.58,0:11:35.16,Default,,0,0,0,,You're using a sort of telekinesis\Nto change your expression, too, right?
+Dialogue: 0,0:11:35.16,0:11:37.24,Default,,0,0,0,,None of that, either.
+Dialogue: 0,0:11:38.12,0:11:40.95,Default,,0,0,0,,As you command.
+Dialogue: 0,0:11:47.70,0:11:52.04,Default,,0,0,0,,I'd never even suspected\Nthe monster could possess a robot.
+Dialogue: 0,0:11:52.04,0:11:55.20,Default,,0,0,0,,It's probably because\Nit was a humanoid type.
+Dialogue: 0,0:11:55.20,0:11:57.20,Default,,0,0,0,,What an unlikely {\i1}tsukumogami{\i0} .
+Dialogue: 0,0:12:02.20,0:12:05.99,Default,,0,0,0,,You have piano and etiquette\Nlessons today, don't you?
+Dialogue: 0,0:12:05.99,0:12:06.83,Default,,0,0,0,,Yes.
+Dialogue: 0,0:12:06.83,0:12:10.58,Default,,0,0,0,,Then, I'll come pick you up\Nwhen it's over like usual.
+Dialogue: 0,0:12:10.58,0:12:14.04,Default,,0,0,0,,Yes. I will be waiting for you.
+Dialogue: 0,0:12:46.66,0:12:48.83,Default,,0,0,0,,Five of them...
+Dialogue: 0,0:12:48.83,0:12:51.12,Default,,0,0,0,,And they're...
+Dialogue: 0,0:12:51.12,0:12:53.54,Default,,0,0,0,,surveillance from another faction?
+Dialogue: 0,0:12:57.29,0:12:59.33,Default,,0,0,0,,Everyone is in position.
+Dialogue: 0,0:13:00.12,0:13:01.87,Default,,0,0,0,,Major Sirius...
+Dialogue: 0,0:13:01.87,0:13:06.37,Default,,0,0,0,,The Stardust unit is in place.\NWhat is your situation?
+Dialogue: 0,0:13:06.37,0:13:08.49,Default,,0,0,0,,Ready to deploy.
+Dialogue: 0,0:13:08.49,0:13:13.45,Default,,0,0,0,,Good. First, the Stardust unit\Nwill attempt to capture the target.
+Dialogue: 0,0:13:13.45,0:13:17.08,Default,,0,0,0,,If that proves impossible, they will lure him\Nto the park where you're waiting.
+Dialogue: 0,0:13:17.08,0:13:19.45,Default,,0,0,0,,After that, I will leave it\Nto your judgment.
+Dialogue: 0,0:13:19.45,0:13:20.99,Default,,0,0,0,,Roger that.
+Dialogue: 0,0:13:20.99,0:13:22.79,Default,,0,0,0,,Then, begin the operation!
+Dialogue: 0,0:13:59.37,0:14:01.45,Default,,0,0,0,,What? The spell bounced back!
+Dialogue: 0,0:14:11.54,0:14:15.20,Default,,0,0,0,,An engineered magician...\NNo, an enhanced human?
+Dialogue: 0,0:14:21.04,0:14:23.95,Default,,0,0,0,,Enhanced beyond their physical capacity.
+Dialogue: 0,0:14:23.95,0:14:27.24,Default,,0,0,0,,At this rate, I bet they've got\Nonly a handful of years to live.
+Dialogue: 0,0:14:27.24,0:14:29.87,Default,,0,0,0,,A true suicide squad.
+Dialogue: 0,0:15:00.49,0:15:02.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC VII
+Dialogue: 0,0:15:06.04,0:15:07.87,Default,,0,0,0,,That spell...
+Dialogue: 0,0:15:07.87,0:15:09.20,Default,,0,0,0,,No doubt about it.
+Dialogue: 0,0:15:09.20,0:15:13.04,Default,,0,0,0,,That was Strategic-Class magic,\NHeavy Metal Burst.
+Dialogue: 0,0:15:23.83,0:15:26.83,Default,,0,0,0,,The target has begun\Nfollowing Major Sirius.
+Dialogue: 0,0:15:26.83,0:15:31.70,Default,,0,0,0,,Why did Major Sirius decide\Nto leave her position?
+Dialogue: 0,0:15:31.70,0:15:35.37,Default,,0,0,0,,And to fire the Brionac\Nin the middle of traffic...
+Dialogue: 0,0:15:35.37,0:15:36.87,Default,,0,0,0,,Summon the relay vehicle!
+Dialogue: 0,0:15:36.87,0:15:38.12,Default,,0,0,0,,Yes, ma'am!
+Dialogue: 0,0:15:45.33,0:15:48.49,Default,,0,0,0,,She canceled her camouflage.
+Dialogue: 0,0:15:48.49,0:15:52.41,Default,,0,0,0,,To focus her mind on this attack spell?
+Dialogue: 0,0:15:52.41,0:15:53.74,Default,,0,0,0,,Tatsuya...
+Dialogue: 0,0:15:53.74,0:15:55.87,Default,,0,0,0,,You'd better surrender.
+Dialogue: 0,0:15:55.87,0:15:59.87,Default,,0,0,0,,I don't know how you disable magic,
+Dialogue: 0,0:15:59.87,0:16:03.45,Default,,0,0,0,,but you won't be able\Nto mess with the Brionac!
+Dialogue: 0,0:16:06.12,0:16:07.70,Default,,0,0,0,,I see.
+Dialogue: 0,0:16:14.29,0:16:15.79,Default,,0,0,0,,No time!
+Dialogue: 0,0:16:32.49,0:16:34.29,Default,,0,0,0,,The Brionac...
+Dialogue: 0,0:16:34.29,0:16:37.24,Default,,0,0,0,,That which pierces. The Brionac.
+Dialogue: 0,0:16:37.24,0:16:41.54,Default,,0,0,0,,One of the weapons\Nthe Celtic god of light Lugh possessed.
+Dialogue: 0,0:16:41.54,0:16:44.16,Default,,0,0,0,,Does that naming mean...
+Dialogue: 0,0:16:44.16,0:16:46.66,Default,,0,0,0,,you've reproduced the mythical weapon?
+Dialogue: 0,0:16:47.74,0:16:49.08,Default,,0,0,0,,Tatsuya!
+Dialogue: 0,0:16:50.37,0:16:52.04,Default,,0,0,0,,I'll say it again.
+Dialogue: 0,0:16:52.04,0:16:53.37,Default,,0,0,0,,Surrender!
+Dialogue: 0,0:16:53.37,0:16:55.95,Default,,0,0,0,,You can't use your martial arts\Nwith only one arm!
+Dialogue: 0,0:16:55.95,0:16:58.91,Default,,0,0,0,,You have no chance of defeating me now!
+Dialogue: 0,0:16:58.91,0:17:01.62,Default,,0,0,0,,What would you do with me\Nas your prisoner?
+Dialogue: 0,0:17:01.62,0:17:03.37,Default,,0,0,0,,Human experimentation?
+Dialogue: 0,0:17:03.37,0:17:06.41,Default,,0,0,0,,Like you did with them?
+Dialogue: 0,0:17:06.41,0:17:10.41,Default,,0,0,0,,It doesn't really need to be said,\Nbut I refuse to be your guinea pig.
+Dialogue: 0,0:17:10.41,0:17:11.74,Default,,0,0,0,,Then...
+Dialogue: 0,0:17:11.74,0:17:14.45,Default,,0,0,0,,I'll incapacitate you\Nand drag you away with me!
+Dialogue: 0,0:17:19.45,0:17:21.33,Default,,0,0,0,,Your arm...
+Dialogue: 0,0:17:21.33,0:17:22.95,Default,,0,0,0,,How?
+Dialogue: 0,0:17:49.45,0:17:50.79,Default,,0,0,0,,Lina...
+Dialogue: 0,0:17:50.79,0:17:53.91,Default,,0,0,0,,You'd be better off\Nquitting the army as soon as you can.
+Dialogue: 0,0:17:55.87,0:17:58.41,Default,,0,0,0,,For a soldier, you're too naïve.
+Dialogue: 0,0:17:58.41,0:18:01.95,Default,,0,0,0,,Or rather, you're too soft.
+Dialogue: 0,0:18:01.95,0:18:04.49,Default,,0,0,0,,Sirius, commander of the Stars...
+Dialogue: 0,0:18:04.49,0:18:06.99,Default,,0,0,0,,I really don't think you're fit for this job.
+Dialogue: 0,0:18:09.29,0:18:11.37,Default,,0,0,0,,Oh, hello, Mr. Tatsuya.
+Dialogue: 0,0:18:11.37,0:18:12.95,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:18:12.95,0:18:16.33,Default,,0,0,0,,I'm sorry for calling so late, Mr. Hayama.
+Dialogue: 0,0:18:16.33,0:18:21.20,Default,,0,0,0,,Actually, I just came under attack\Nby a small USNA military force.
+Dialogue: 0,0:18:21.20,0:18:22.16,Default,,0,0,0,,Oh...
+Dialogue: 0,0:18:22.16,0:18:24.24,Default,,0,0,0,,After fighting off their first wave,
+Dialogue: 0,0:18:24.24,0:18:28.99,Default,,0,0,0,,I engaged in combat with the Stars commander,\NAngie Sirius, and defeated her, too.
+Dialogue: 0,0:18:28.99,0:18:32.04,Default,,0,0,0,,Then, I took down the backup team,
+Dialogue: 0,0:18:32.04,0:18:36.95,Default,,0,0,0,,backed up the data they'd recorded,\Nand then erased everything they'd left.
+Dialogue: 0,0:18:47.12,0:18:50.41,Default,,0,0,0,,Next, I repaired Sirius's wounds...
+Dialogue: 0,0:18:50.41,0:18:53.74,Default,,0,0,0,,and erased all signs that we'd fought.
+Dialogue: 0,0:18:54.99,0:18:57.29,Default,,0,0,0,,While making contact with the first wave,
+Dialogue: 0,0:18:57.29,0:19:01.45,Default,,0,0,0,,I noticed other observers,\Nnot with the USNA army.
+Dialogue: 0,0:19:01.45,0:19:05.54,Default,,0,0,0,,They must have been Section Three.
+Dialogue: 0,0:19:05.54,0:19:07.16,Default,,0,0,0,,Section Three...
+Dialogue: 0,0:19:07.16,0:19:09.70,Default,,0,0,0,,Then, that unit was under\Nthe Saegusa Family's yoke.
+Dialogue: 0,0:19:09.70,0:19:15.66,Default,,0,0,0,,Yes. Mr. Koichi, the current leader of\Nthe Saegusa Family, seems to be interested.
+Dialogue: 0,0:19:15.66,0:19:20.24,Default,,0,0,0,,I expect he is investigating the parasites...\Nor more likely, is trying to capture one.
+Dialogue: 0,0:19:20.24,0:19:22.04,Default,,0,0,0,,What a pain.
+Dialogue: 0,0:19:22.04,0:19:24.83,Default,,0,0,0,,We will do something about\Nthe USNA military for the time being.
+Dialogue: 0,0:19:24.83,0:19:29.12,Default,,0,0,0,,Please send the backed up data here.
+Dialogue: 0,0:19:29.12,0:19:32.12,Default,,0,0,0,,Without an excuse to make\NSection Three take action,
+Dialogue: 0,0:19:32.12,0:19:35.95,Default,,0,0,0,,Mr. Koichi should back out\Nfor the time being, as well.
+Dialogue: 0,0:19:35.95,0:19:37.58,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:19:43.08,0:19:44.91,Default,,0,0,0,,Is something wrong?
+Dialogue: 0,0:19:46.29,0:19:47.54,Default,,0,0,0,,No.
+Dialogue: 0,0:19:47.54,0:19:49.08,Default,,0,0,0,,Nothing.
+Dialogue: 0,0:19:53.91,0:19:54.99,Default,,0,0,0,,Brother...
+Dialogue: 0,0:19:54.99,0:19:56.62,Default,,0,0,0,,You aren't hurt, are you?
+Dialogue: 0,0:19:56.62,0:19:59.08,Default,,0,0,0,,Miyuki, calm down a little.
+Dialogue: 0,0:19:59.08,0:20:02.83,Default,,0,0,0,,I shall not calm down! This blood...
+Dialogue: 0,0:20:02.83,0:20:08.91,Default,,0,0,0,,You fought with Lina, didn't you?\NAnd it wasn't one-on-one, either, was it?
+Dialogue: 0,0:20:08.91,0:20:11.12,Default,,0,0,0,,Please just stay calm.
+Dialogue: 0,0:20:11.12,0:20:17.83,Default,,0,0,0,,You know that nobody can leave injuries\Non me if I don't let them, right?
+Dialogue: 0,0:20:18.74,0:20:22.20,Default,,0,0,0,,I'm terribly sorry, Brother.
+Dialogue: 0,0:20:22.20,0:20:25.08,Default,,0,0,0,,That was shameful of me.
+Dialogue: 0,0:20:25.08,0:20:29.33,Default,,0,0,0,,Not at all. I'm sorry for worrying you.
+Dialogue: 0,0:20:29.33,0:20:34.62,Default,,0,0,0,,No, that's not... It's natural for\Na sister to worry about her brother!
+Dialogue: 0,0:20:34.62,0:20:40.16,Default,,0,0,0,,I'm aware that no matter how many times\NLina challenges you, she can't defeat you.
+Dialogue: 0,0:20:40.16,0:20:45.66,Default,,0,0,0,,Nobody can defeat you,\Nthough you may search the entire world.
+Dialogue: 0,0:20:48.37,0:20:51.12,Default,,0,0,0,,I wouldn't lose to anyone.
+Dialogue: 0,0:20:51.12,0:20:54.49,Default,,0,0,0,,Not with you waiting for me.
+Dialogue: 0,0:21:12.24,0:21:13.91,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:21:20.29,0:21:22.58,Default,,0,0,0,,Nobody's here?
+Dialogue: 0,0:21:31.49,0:21:33.58,Default,,0,0,0,,Why?
+Dialogue: 0,0:21:37.12,0:21:39.08,Default,,0,0,0,,No injuries...
+Dialogue: 0,0:21:39.49,0:21:42.12,Default,,0,0,0,,No pain?
+Dialogue: 0,0:21:42.12,0:21:44.79,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:21:44.79,0:21:45.99,Default,,0,0,0,,No.
+Dialogue: 0,0:21:45.99,0:21:47.58,Default,,0,0,0,,Exotype magic...
+Dialogue: 0,0:21:47.58,0:21:49.99,Default,,0,0,0,,A mental attack?
+Dialogue: 0,0:21:49.99,0:21:55.12,Default,,0,0,0,,Have we been misunderstanding\Nsomething really important?
+Dialogue: 0,0:21:55.12,0:21:59.66,Default,,0,0,0,,What if Tatsuya isn't a Mass-energy\NConversion Magic spell caster...
+Dialogue: 0,0:21:59.66,0:22:04.04,Default,,0,0,0,,but a magician with a high aptitude\Nfor Sensory Interference Magic?
+Dialogue: 0,0:22:04.04,0:22:06.62,Default,,0,0,0,,An illusion master?
+Dialogue: 0,0:22:06.62,0:22:08.29,Default,,0,0,0,,Oh, right!
+Dialogue: 0,0:22:08.29,0:22:10.79,Default,,0,0,0,,I have to report to the control room!
+Dialogue: 0,0:23:48.49,0:23:52.08,Default,,0,0,0,,{\bord3\fnOpen Sans Extrabold\b0\c&HFFFEFC&\3c&H1D3EDF&\pos(702,68)}VISITOR ARC VIII
